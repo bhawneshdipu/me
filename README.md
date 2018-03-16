@@ -44,4 +44,4 @@
 -   **Programming Languages: *C/C++, Java , Python , PHP* .
 -   Database: *Oracle 11g, Mysql* .
 -   Framework: *Springboot, Laravel,Django*
--   Platforms: *Linux and Windows* **
+-   Platforms: *Linux and Windows***
