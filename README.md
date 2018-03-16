@@ -25,3 +25,7 @@
 
 # Workshops Attended
 -   Two days’ Workshop on Autonomous Robot, SakRobotix Lab Pvt. Ltd., January 26-27,2016.
+
+# Summer Training Courses
+-		Oracle 11g in Summer 2014 from National Institute of Science and Technology , Berhmapur.
+-		High Performance Computing from National Institute of Science and Technology , Berhmapur.
