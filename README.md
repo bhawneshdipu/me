@@ -21,10 +21,16 @@
   | 2010 | Class X (CBSE-AISSE) |    D.A.V. Public School , Pusauli |CGPA :  9.20 / 10 |
 
 # Major Projects
--   *B.Tech: Data Viewpoints a Web based Mathematical Software for Data analysis .*
--   *Professional: 
+-   *Data Viewpoints a Web based Mathematical Software for Data analysis .*
+-   *Restaurant Website with Admin Module for Dynamic Management of website Contents*
+-   *Web Scarapping in Python and Java using Selenium*
+-   *Question-Answering Bot with Admin module with images and files*.
+
 # Mini Projects
 -   * Developed a Rat and Snake Game using C++.*
+-   * College Councelling Website *
+-   * Twitter  OAuth2 Api Integration.*
+
 # Workshops Attended
 -   *Two days’ Workshop on Autonomous Robot, SakRobotix Lab Pvt. Ltd., January 26-27,2016.*
 
