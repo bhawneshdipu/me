@@ -41,7 +41,7 @@
 -   *Worked as Teacher Assistance in NIST during 4​ th ​ Semester.*
 
 # Computer Skills
--   **Programming Languages: *C/C++, Java , Python , PHP* .
--   Database: *Oracle 11g, Mysql* .
--   Framework: *Springboot, Laravel,Django*
--   Platforms: *Linux and Windows***
+-   **Programming Languages:** ***C/C++, Java , Python , PHP*** .
+-   **Database:** ***Oracle 11g, Mysql*** .
+-   **Framework:** ***Springboot, Laravel,Django***
+-   **Platforms:** ***Linux and Windows***
