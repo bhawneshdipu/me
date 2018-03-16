@@ -22,5 +22,6 @@
 -   Mini Project: Developed a Rat and Snake Game using C++.
 -   Seminar: Fog Computing and Smart Gateway Based Communication for Cloud of Things
 -   Major Project: Data Viewpoints a Web based Mathematical Software for Data analysis .
+
 # Workshops Attended
 -   Two days’ Workshop on Autonomous Robot, SakRobotix Lab Pvt. Ltd., January 26-27,2016.
