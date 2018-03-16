@@ -45,3 +45,8 @@
 -   *Database:* ***Oracle 11g, Mysql*** .
 -   *Framework:* ***Springboot, Laravel,Django***
 -   *Platforms:* ***Linux and Windows***
+
+# Position of Responsibility
+-   Campus Ambassador of Hackerrank (online platform for coding) of NIST, Berhmapur
+-   Core Member of NIST Club Excel (Coding Club)
+-   Member of NIST STUDENT COUNSELLING SERVICES
