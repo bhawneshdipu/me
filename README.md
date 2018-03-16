@@ -50,3 +50,5 @@
 -   *Campus Ambassador of Hackerrank (online platform for coding) of NIST, Berhmapur*
 -   *Core Member of NIST Club Excel (Coding Club)*
 -   *Member of NIST STUDENT COUNSELLING SERVICES*
+
+[logo]: https://https://github.com/bhawneshdipu/me/edit/master/me.png "Bhawnesh Dipu"
