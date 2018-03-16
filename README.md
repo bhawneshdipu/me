@@ -12,11 +12,11 @@
     I can enrich my knowledge.*
 # Academic Details
 
-    | YEAR        | DEGREE     | INSTITUTE | PERCENTAGE/CGPA |
-    | ------------|------------| ----------|-----------------|
-    | 2013-17      | B. Tech in Computer Science and Technology| National Institute of Science and Technology,Berhampur |CGPA: 8.28 / 10|
-    | 2012      | Class XII (CBSE-AISSCE)      |Central Hindu Boys School, Varanasi | 62.04% |
-    | 2010 | Class X (CBSE-AISSE) |    D.A.V. Public School , Pusauli |CGPA :  9.20 / 10 |
+  | YEAR        | DEGREE     | INSTITUTE | PERCENTAGE/CGPA |
+  | ------------|------------| ----------|-----------------|
+  | 2013-17      | B. Tech in Computer Science and Technology| National Institute of Science and Technology,Berhampur |CGPA: 8.28 / 10|
+  | 2012      | Class XII (CBSE-AISSCE)      |Central Hindu Boys School, Varanasi | 62.04% |
+  | 2010 | Class X (CBSE-AISSE) |    D.A.V. Public School , Pusauli |CGPA :  9.20 / 10 |
 
 # Projects
 -   Mini Project: Developed a Rat and Snake Game using C++.
