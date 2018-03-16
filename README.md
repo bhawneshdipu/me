@@ -18,7 +18,7 @@
 | 2012      | Class XII (CBSE-AISSCE)      |Central Hindu Boys School, Varanasi | 62.04% |
 | 2010 | Class X (CBSE-AISSE) |    D.A.V. Public School , Pusauli |CGPA :  9.20 / 10 |
 
-
-  
-  
-
+# Projects
+-   Mini Project: Developed a Rat and Snake Game using C++.
+-   Seminar: Fog Computing and Smart Gateway Based Communication for Cloud of Things
+-   Major Project: Data Viewpoints a Web based Mathematical Software for Data analysis .
