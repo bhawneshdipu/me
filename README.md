@@ -27,9 +27,9 @@
 -   *Question-Answering Bot with Admin module with images and files*.
 
 # Mini Projects
--   * Developed a Rat and Snake Game using C++.*
--   * College Councelling Website *
--   * Twitter  OAuth2 Api Integration.*
+-   *Developed a Rat and Snake Game using C++.*
+-   *College Councelling Website *
+-   *Twitter  OAuth2 Api Integration.*
 
 # Workshops Attended
 -   *Two days’ Workshop on Autonomous Robot, SakRobotix Lab Pvt. Ltd., January 26-27,2016.*
