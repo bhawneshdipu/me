@@ -10,7 +10,6 @@
 ## Objective
 - *To obtain a position of responsibilities that utilizes my skills and experience and keen to work in an environment where
   I can enrich my knowledge.*
--------------------------------------------------------------------------------------------------------------------------
 # Academic Details
 | YEAR         | DEGREE          | INSTITUTE  | PERCENTAGE/CGPA |
 | ------------|----------------| ----------|----------------|
