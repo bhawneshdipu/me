@@ -11,6 +11,11 @@
 - *To obtain a position of responsibilities that utilizes my skills and experience and keen to work in an environment where
   I can enrich my knowledge.*
 # Academic Details
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
 |-------------+------------+-----------+-----------------|
 | YEAR        | DEGREE     | INSTITUTE | PERCENTAGE/CGPA |
 | ------------|------------| ----------|-----------------|
