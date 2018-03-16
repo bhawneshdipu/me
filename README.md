@@ -39,3 +39,9 @@
 -   *Secured All India Rank 70 in Round-2, CodeVita-2016. (Team: nist404)*
 -   *Runner up in CodeRush (Over Night Coding Contest) in Sankalp-2015.*
 -   *Worked as Teacher Assistance in NIST during 4​ th ​ Semester.*
+
+# Computer Skills
+-   **Programming Languages: *C/C++, Java , Python , PHP* .
+-   Database: *Oracle 11g, Mysql* .
+-   Framework: *Springboot, Laravel,Django*
+-   Platforms: *Linux and Windows* **
