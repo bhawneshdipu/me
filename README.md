@@ -29,13 +29,13 @@
 -   Two days’ Workshop on Autonomous Robot, SakRobotix Lab Pvt. Ltd., January 26-27,2016.
 
 # Summer Training Courses
--		Oracle 11g in Summer 2014 from National Institute of Science and Technology , Berhmapur.
--		High Performance Computing from National Institute of Science and Technology , Berhmapur.
+-   Oracle 11g in Summer 2014 from National Institute of Science and Technology , Berhmapur.
+-   High Performance Computing from National Institute of Science and Technology , Berhmapur.
 
 # Achievements
---  Qualified for Facebook Hacker Cup 2015 Round 1 (username : bhawnesh.dipu)
---  Qualified for Google CodeJam 2016 Round 1 (username:bhawnesh.dipu)
---  Qualified for Codechef Snackdown 2015,2016 elimination (team: nist_404)
---  Secured All India Rank 70 in Round-2, CodeVita-2016. (Team: nist404)
---  Runner up in CodeRush (Over Night Coding Contest) in Sankalp-2015.
---  Worked as Teacher Assistance in NIST during 4​ th ​ Semester.
+-   Qualified for Facebook Hacker Cup 2015 Round 1 (username : bhawnesh.dipu)
+-   Qualified for Google CodeJam 2016 Round 1 (username:bhawnesh.dipu)
+-   Qualified for Codechef Snackdown 2015,2016 elimination (team: nist_404)
+-   Secured All India Rank 70 in Round-2, CodeVita-2016. (Team: nist404)
+-   Runner up in CodeRush (Over Night Coding Contest) in Sankalp-2015.
+-   Worked as Teacher Assistance in NIST during 4​ th ​ Semester.
