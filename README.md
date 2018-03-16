@@ -24,7 +24,7 @@
 -   *Data Viewpoints a Web based Mathematical Software for Data analysis .*
 -   *Restaurant Website with Admin Module for Dynamic Management of website Contents*
 -   *Web Scarapping in Python and Java using Selenium*
--   *Question-Answering Bot with Admin module with images and files*.
+-   *Question-Answering Bot with Admin module and Dashboard *.
 
 # Mini Projects
 -   *Developed a Rat and Snake Game using C++.*
