@@ -60,5 +60,3 @@
 
 ![alt text](https://github.com/bhawneshdipu/me/blob/master/me.jpg "Bhawnesh Dipu")
 
-![alt text][logo]
-[logo]: https://github.com/bhawneshdipu/me/blob/master/me.jpg "Bhawnesh Dipu"
