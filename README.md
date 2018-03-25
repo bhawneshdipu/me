@@ -24,12 +24,12 @@
 -   *Data Viewpoints a Web based Mathematical Software for Data analysis .*
 -   *Restaurant Website with Admin Module for Dynamic Management of website Contents*
 -   *Web Scarapping in Python and Java using Selenium*
--   *Question-Answering Bot with Admin module and Dashboard *.
+-   *Question-Answering Bot with Admin module and Dashboard*.
 
 # Mini Projects
 -   *Developed a Rat and Snake Game using C++.*
--   *College Councelling Website *
--   *Twitter  OAuth2 Api Integration.*
+-   *College Councelling Website*
+-   *Twitter  OAuth1.0 Api Integration.*
 
 # Workshops Attended
 -   *Two days’ Workshop on Autonomous Robot, SakRobotix Lab Pvt. Ltd., January 26-27,2016.*
