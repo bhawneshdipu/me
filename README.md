@@ -57,4 +57,4 @@
 -   *Core Member of NIST Club Excel (Coding Club)*
 -   *Member of NIST STUDENT COUNSELLING SERVICES*
 
-![Bhawnesh Dipu](https://raw.githubusercontent.com/bhawneshdipu/me/master/me.jpg "Bhawnesh Dipu")
+![Bhawnesh_Dipu](https://raw.githubusercontent.com/bhawneshdipu/me/master/me.jpg "Bhawnesh Dipu")
