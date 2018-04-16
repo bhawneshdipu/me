@@ -32,7 +32,7 @@
 -   *Twitter  OAuth1.0 Api Integration.*
 
 # Workshops Attended
--   *Two days’ Workshop on Autonomous Robot, SakRobotix Lab Pvt. Ltd., January 26-27,2016.*
+-   *Two days’ Workshop on Autonomous Robot,SakRobotix Lab Pvt. Ltd., January 26-27,2016.*
 
 # Summer Training Courses
 -   *Oracle 11g in Summer 2014 from National Institute of Science and Technology , Berhmapur.*
@@ -48,8 +48,8 @@
 
 # Computer Skills
 -   *Programming Languages:* ***C/C++, Java , Python , PHP*** .
--   *Database:* ***Oracle 11g, Mysql*** .
--   *Framework:* ***Springboot, Laravel,Django***
+-   *Database:* ***Oracle 11g, Mysql, Elasticsearch*** .
+-   *Framework:* ***Springboot, Laravel, Django, Flask***
 -   *Platforms:* ***Linux and Windows***
 
 # Position of Responsibility
