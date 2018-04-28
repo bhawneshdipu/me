@@ -50,7 +50,7 @@
 
 # Computer Skills
 -   *Programming Languages:* ***C/C++, Java , Python , PHP*** .
--   *Database:* ***Oracle 11g, Mysql, Elasticsearch*** .
+-   *Database:* ***Oracle 11g, Mysql, PostgreSQL, Elasticsearch*** .
 -   *Framework:* ***Springboot, Laravel, Django, Flask***
 -   *Platforms:* ***Linux and Windows***
 
