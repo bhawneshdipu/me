@@ -51,7 +51,7 @@
 # Computer Skills
 -   *Programming Languages:* ***C/C++, Java , Python , PHP*** .
 -   *Database:* ***Oracle 11g, Mysql, PostgreSQL, Elasticsearch*** .
--   *Visualization:* ***D3 js,Chart Js, Matplotlib, Plotly***
+-   *Visualization:* ***D3 js, Chart Js, Matplotlib, Plotly***
 -   *Framework:* ***Springboot, Laravel, Django, Flask***
 -   *Platforms:* ***Linux and Windows***
 
